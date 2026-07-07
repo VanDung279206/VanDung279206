@@ -13,7 +13,7 @@
 <div align="center">
 <img src="https://github-readme-stats.shion.dev/api?username=VanDung279206&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" />
 
-<img src="https://streak-stats.demolab.com/?user=VanDung279206&theme=transparent&hide_border=false" />
+<img src="https://streak-stats.vercel.app/?user=VanDung279206&theme=transparent&hide_border=false" />
 </div>
 
 <div align="center">
