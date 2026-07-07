@@ -11,9 +11,9 @@
 </p>
 
 <div align="center">
-<img src="https://github-readme-stats.shion.dev/api?username=VanDung279206&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" />
+<img src="https://ghstats.dev/api/card?username=VanDung279206&theme=transparent" />
 
-<img src="https://streak-stats.vercel.app/?user=VanDung279206&theme=transparent&hide_border=false" />
+<img src="https://streak-stats.vercel.app/?user=VanDung279206&theme=github-dark&hide_border=true" />
 </div>
 
 <div align="center">
