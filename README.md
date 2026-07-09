@@ -1,6 +1,6 @@
 <div align="center">
 
-# NGUYỄN VĂN DŨNG  
+# NGUYỄN VĂN DŨNG 
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Nguyen+Van+Dung;Computer+Science+Student"/>
 
