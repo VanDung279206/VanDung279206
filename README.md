@@ -11,9 +11,11 @@
 </p>
 
 <div align="center">
-<img src="https://ghstats.dev/api/card?username=VanDung279206&theme=transparent" />
+<img src="https://komarev.com/ghpvc/?username=VanDung279206&label=Profile%20views&color=0e75b6&style=flat" />
 
 <img src="https://streak-stats.vercel.app/?user=VanDung279206&theme=github-dark&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VanDung279206&theme=github-compact&bg_color=transparent&hide_border=true" />
 </div>
 
 <div align="center">
