@@ -7,7 +7,7 @@
 </div>
 
 <p align='center'>
-<img src='https://hacked-github-stat-trophies.vercel.app/?username=VanDung279206&theme=dracula&column=11'>
+<!-- <img src='https://hacked-github-stat-trophies.vercel.app/?username=VanDung279206&theme=dracula&column=11'> -->
 </p>
 
 <div align="center">
@@ -15,10 +15,16 @@
 
 <img src="https://streak-stats.vercel.app/?user=VanDung279206&theme=github-dark&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VanDung279206&theme=github-compact&bg_color=transparent&hide_border=true" />
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=VanDung279206&theme=github-compact&bg_color=transparent&hide_border=true" /> -->
 </div>
 
-<div align="center">
+<!-- <div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=VanDung279206&show=reviews,prs_merged,prs_merged_percentage&theme=github_dark&hide_border=true"
+  />
+</div> -->
+
+<!-- <div align="center">
 <table>
   <tr>
 <td width="50%" align="center">
@@ -31,11 +37,11 @@
 </td>
   </tr>
 </table>
-</div>
+</div> -->
 
-<div>
+<!-- <div>
   <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/> </p>
-</div>
+</div> -->
 
 ## Contact
 
