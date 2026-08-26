@@ -7,7 +7,7 @@
 </div>
 
 <p align='center'>
-<!-- <img src='https://hacked-github-stat-trophies.vercel.app/?username=VanDung279206&theme=dracula&column=11'> -->
+<img src='https://hacked-github-stat-trophies.vercel.app/?username=VanDung279206&theme=dracula&column=11'>
 </p>
 
 <div align="center">
@@ -24,7 +24,7 @@
   />
 </div> -->
 
-<!-- <div align="center">
+<div align="center">
 <table>
   <tr>
 <td width="50%" align="center">
@@ -37,11 +37,11 @@
 </td>
   </tr>
 </table>
-</div> -->
+</div>
 
-<!-- <div>
+<div>
   <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/> </p>
-</div> -->
+</div>
 
 ## Contact
 
