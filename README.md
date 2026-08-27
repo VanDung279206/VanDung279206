@@ -15,14 +15,11 @@
 
 <img src="https://streak-stats.vercel.app/?user=VanDung279206&theme=github-dark&hide_border=true" />
 
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=VanDung279206&theme=github-compact&bg_color=transparent&hide_border=true" /> -->
+
 </div>
 
-<!-- <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=VanDung279206&show=reviews,prs_merged,prs_merged_percentage&theme=github_dark&hide_border=true"
-  />
-</div> -->
+
+
 
 <div align="center">
 <table>
