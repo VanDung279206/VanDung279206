@@ -3,16 +3,13 @@
 # NGUYỄN VĂN DŨNG 
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Nguyen+Van+Dung;Computer+Science+Student"/>
-
-<p align='center'>
-<!-- hacker rank -->
-<!-- <img src='https://hacked-github-stat-trophies.vercel.app/?username=VanDung279206&theme=dracula&column=11'> -->
-</p>
+</div>
 
 <img src="https://komarev.com/ghpvc/?username=VanDung279206&label=Profile%20views&color=0e75b6&style=flat" />
 
-<img src="https://streak-stats.vercel.app/?user=VanDung279206&theme=github-dark&hide_border=true" />
-
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=VanDung279206&border_radius=10&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&card_width=500&card_height=200&background=90%2CFFFFFF%2CFFFFFF&ring=000000&stroke=000000&border=FFFFFF&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000" alt="GitHub Streak" /></a>
+</div>
 
 ## Contact
 
