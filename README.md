@@ -8,6 +8,9 @@
 <img src="https://komarev.com/ghpvc/?username=VanDung279206&label=Profile%20views&color=0e75b6&style=flat" />
 
 <div align="center">
+
+[![VanDung279206 on GitRanks: profile](https://gitranks.com/badge/user/VanDung279206/profile-card.svg)](https://gitranks.com/profile/VanDung279206)
+
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=VanDung279206&border_radius=10&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&card_width=500&card_height=200&background=90%2CFFFFFF%2CFFFFFF&ring=000000&stroke=000000&border=FFFFFF&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000" alt="GitHub Streak" /></a>
 </div>
 
